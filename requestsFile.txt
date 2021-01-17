@@ -1,0 +1,4 @@
+GET index.jpeg
+GET iindex.jpeg
+POST person.txt
+GET lol.html

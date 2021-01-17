@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1608214666 source:/home/mrjoe/MrJoe/C++Projects/simple http client/client.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fstream>
+	<bits/stdc++.h>
+
